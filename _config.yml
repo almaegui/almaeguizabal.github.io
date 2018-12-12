@@ -2,6 +2,20 @@ theme: jekyll-theme-minimal
 title: Alma Eguizabal
 description: Research Associate and last year PhD student
 logo: https://www.xing.com/image/2_8_0_962412c3a_30522263_1/alma-eguizabal-foto.1024x1024.jpg
-show_downloads: false
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email:
+  facebook:
+  flickr:
+  github: barryclark/jekyll-now
+  instagram:
+  linkedin:
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: jekyllrb
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
 
 
